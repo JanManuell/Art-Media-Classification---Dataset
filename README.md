@@ -12,6 +12,7 @@ The Art Media Dataset - The New Spain (Mexico) ArtMD is a curated collection of 
   - Engravings
   - Sculptures
   - Drawings
+  - Icononography
 - **Format**: JPEG / PNG (high resolution)
 - **Annotations**: Each image is labeled by its corresponding art media category.
 - **Metadata**: [Optional metadata like artist, century, source museum]
@@ -38,14 +39,14 @@ Please ensure appropriate citation when using the dataset.
 
 If you use CMAMD in your research, please cite it as follows:
 
-> [Author(s)]. (2025). *Colonial Mexican Art Media Dataset (CMAMD)* [Data set]. Zenodo. https://doi.org/[Insert DOI]
+> [Author(s)]. (2026). *Art Media Dataset (ArtMD)* [Data set]. Zenodo. https://doi.org/[Insert DOI]
 
 **BibTeX:**
 
 ```bibtex
 @misc{ArtMD2026,
   author = {[Author's Name/s]},
-  title = {Art Media Dataset - The New Spain (Mexico) ArtMD},
+  title = {Art Media Dataset - ArtMD},
   year = {2026},
   publisher = {GitHub},
   doi = {Insert DOI},
