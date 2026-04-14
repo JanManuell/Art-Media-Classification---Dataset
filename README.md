@@ -2,7 +2,9 @@
 
 ## Overview
 
-The Art Media Dataset - The New Spain (Mexico) ArtMD is a curated collection of historical visual artworks from the New Spain period (16th–18th centuries). It is designed to support research in computer vision, transfer learning, domain adaptation, and digital humanities, providing a challenging benchmark for the classification of traditional art media.
+The Art Media Dataset (ArtMD) for our case study. The dataset includes five categories of artistic media with a universal scope (different styles, techniques, periods, etc.): Drawing, Painting, Iconography, Printmaking, and Sculpture. Each class consists of 850 training images and 180 validation images, sourced from the Art Image dataset. The test set was constructed with 180 images per class, sourced from the WikiArt database and digital artworks from the Louvre Museum for painting and the Prado Museum for engraving. The images are in RGB format and have a standard size of 224 × 224, as documented in the Keras applications.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
 
 ## Dataset Details
 
